@@ -1,0 +1,29 @@
+
+
+body {
+  background-color: #fefcdb;
+padding: 20px;
+font-family: sans-serif;
+width:70%;
+margin-left: 15%;
+}
+
+hr {
+  background-color: transparent;
+  border: none;
+  border-top: 15px dotted #fff0bc;
+  width: 20%;
+
+}
+
+h1 {
+  color: #f05a28;
+}
+
+h2 {
+  color: #f05a28;
+}
+
+h3 {
+  color: #f05a28;
+}
